@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+
+    android:background="#B3005C"
+    android:orientation="vertical"
+    android:padding="10dp">
+    <ImageView
+android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_baseline_android_24"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Shahin Alom Bijoy"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:paddingTop="8dp"
+        android:textColor="@color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="sumonshahin223@gmail.com"
+        android:paddingTop="8dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:textColor="@color/white"/>
+
+
+</LinearLayout>
